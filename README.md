@@ -5,8 +5,11 @@ Since my employer didn't pay me and all these crawlers were literally useless, I
 There were more than 25 crawlers back then (including a crawler to find information on LinkedIn). But the html of some websites changed and the bots don't work anymore.
 Now there are 13 files that still work, each of them crawls a specific website. 
 There is a function in every file, when you are calling this function, you should pass the desired job that you are looking for to it. Default location of the codes is Australia but you can change it in your code.
-The out put is usually like this : Link --> The title of the job, the salary
+The output is usually like this : 
+```
+Link --> The title of the job, the salary
 
+```
 
 ## Installation
 
